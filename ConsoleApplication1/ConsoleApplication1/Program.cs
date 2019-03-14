@@ -10,6 +10,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            test();
+        }
+
+        static void test()
+        {
+            Console.WriteLine("122223");
         }
     }
 }
